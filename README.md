@@ -1,2 +1,2 @@
 # account-reports
-Reports para odoo/sale
+Reports para odoo/account
